@@ -10,7 +10,7 @@ You’ll create a Jupyter notebook that clusters cryptocurrencies by their perfo
 
 The CSV file that’s provided for this Homework contains the price change data of cryptocurrencies in different periods.
 
-## Steps for Assignment
+## Steps Required:
 
 * Import the Data (provided in the starter code)
 * Prepare the Data (provided in the starter code)
