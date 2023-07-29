@@ -9,3 +9,14 @@ In this Challenge, you’ll combine your financial Python programming skills wit
 You’ll create a Jupyter notebook that clusters cryptocurrencies by their performance in different time periods. You’ll then plot the results so that you can visually show the performance to the board.
 
 The CSV file that’s provided for this Homework contains the price change data of cryptocurrencies in different periods.
+
+## Steps for Assignment
+
+* Import the Data (provided in the starter code)
+* Prepare the Data (provided in the starter code)
+* Find the Best Value for k Using the Original Data
+* Cluster Cryptocurrencies with K-means Using the Original Data
+* Optimize Clusters with Principal Component Analysis
+* Find the Best Value for k Using the PCA Data
+* Cluster the Cryptocurrencies with K-means Using the PCA Data
+* Visualize and Compare the Results
