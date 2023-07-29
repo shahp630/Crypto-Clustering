@@ -23,8 +23,26 @@ The CSV file that’s provided for this Homework contains the price change data 
 
   ## Clustering
 
-Clustering Using Originial Data
+Clustering Using Originial Data:
 
 ![Screenshot (8)](https://github.com/shahp630/Crypto-Clustering/assets/133065460/907bfcaa-d337-46a3-a148-c78ce3d8c51f)
+
+Crypto Cluster Scatter
+
+![Screenshot (9)](https://github.com/shahp630/Crypto-Clustering/assets/133065460/a79a4954-574e-429f-9212-975b18d68d89)
+
+### Optimize Clusters with Principal Component Analysis
+
+In this section, you will perform a principal component analysis (PCA) and reduce the features to three principal components.
+
+1. Create a PCA model instance and set `n_components=3`.
+
+2. Use the PCA model to reduce to three principal components. View the first five rows of the DataFrame. 
+
+3. Retrieve the explained variance to determine how much information can be attributed to each principal component.
+
+4. Answer the following question: What is the total explained variance of the three principal components?
+
+5. Create a new DataFrame with the PCA data. Be sure to set the `coin_id` index from the original DataFrame as the index for the new DataFrame. Review the resulting DataFrame.
 
   
