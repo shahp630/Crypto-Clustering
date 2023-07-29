@@ -31,6 +31,9 @@ Crypto Cluster Scatter
 
 ![Screenshot (9)](https://github.com/shahp630/Crypto-Clustering/assets/133065460/a79a4954-574e-429f-9212-975b18d68d89)
 
+![download](https://github.com/shahp630/Crypto-Clustering/assets/133065460/2ee39821-4ea7-4193-81e9-f89fc61ea6d5)
+
+
 ### Optimize Clusters with Principal Component Analysis
 
 In this section, you will perform a principal component analysis (PCA) and reduce the features to three principal components.
