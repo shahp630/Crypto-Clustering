@@ -48,4 +48,5 @@ In this section, you will perform a principal component analysis (PCA) and reduc
 
 5. Create a new DataFrame with the PCA data. Be sure to set the `coin_id` index from the original DataFrame as the index for the new DataFrame. Review the resulting DataFrame.
 
-  
+![Screenshot (10)](https://github.com/shahp630/Crypto-Clustering/assets/133065460/dd7e27ab-23df-4580-92c6-df0271d8e064)
+
