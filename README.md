@@ -23,6 +23,8 @@ The CSV file that’s provided for this Homework contains the price change data 
 
   ## Clustering
 
-![Screenshot (8)](https://github.com/shahp630/Crypto-Clustering/assets/133065460/8a0292fb-08c6-4b64-9bed-7c78a2f25e55)
+Clustering Using Originial Data
+
+![Screenshot (8)](https://github.com/shahp630/Crypto-Clustering/assets/133065460/907bfcaa-d337-46a3-a148-c78ce3d8c51f)
 
   
