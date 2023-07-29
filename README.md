@@ -20,3 +20,9 @@ The CSV file that’s provided for this Homework contains the price change data 
 * Find the Best Value for k Using the PCA Data
 * Cluster the Cryptocurrencies with K-means Using the PCA Data
 * Visualize and Compare the Results
+
+  ## Clustering
+
+![Screenshot (8)](https://github.com/shahp630/Crypto-Clustering/assets/133065460/8a0292fb-08c6-4b64-9bed-7c78a2f25e55)
+
+  
