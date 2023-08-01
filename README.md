@@ -50,4 +50,7 @@ In this section, you will perform a principal component analysis (PCA) and reduc
 
 ![PCA DATA](https://github.com/shahp630/Crypto-Clustering/assets/133065460/ce0dfdb1-504e-4c80-9092-39365d0a12c4)
 
+# Combined Graphs
+
+![Screenshot (14)](https://github.com/shahp630/Crypto-Clustering/assets/133065460/78ae2034-e1b3-4e74-853d-5877f2ae679c)
 
